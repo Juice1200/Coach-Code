@@ -16,12 +16,11 @@ Welcome to a Rough Draft/Alpha version of an upcoming website.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Hello World!
 ## Header 2
 ### Header 3
 
