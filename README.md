@@ -1,4 +1,4 @@
-## Coach Code Layout for website
+## ShutupAndCodeLab. Layout for website
 
 Welcome to a Rough Draft/Alpha version of an upcoming website.
 
