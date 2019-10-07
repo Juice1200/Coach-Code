@@ -4,6 +4,7 @@ Welcome to a Rough Draft/Alpha version of an upcoming website.
 
 ## To Do List: 
 ### This will be a course website like codecademy, udemy, BUT will be:
+
 1) Free 
 2) Will have a subscription service for upgrades (Like Projects)
 3) Email Listing
@@ -11,7 +12,7 @@ Welcome to a Rough Draft/Alpha version of an upcoming website.
 
 
 ## This website Will:
-### Be betterknown than khan academy, make me millions by the year 2024.
+### Be betterknown than khan academy, make me millions by the year 2020.
 
 ### Markdown
 
