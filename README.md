@@ -1,8 +1,17 @@
 ## Coach Code Layout for website
 
-You can use the [editor on GitHub](https://github.com/Juice1200/Coach-Code/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to a Rough Draft/Alpha version of an upcoming website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## To Do List: 
+### This will be a course website like codecademy, udemy, BUT will be:
+1) Free 
+2) Will have a subscription service for upgrades (Like Projects)
+3) Email Listing
+4) Will teach in such a way that it's easy to understand.
+
+
+## This website Will:
+### Be betterknown than khan academy, make me millions by the year 2024.
 
 ### Markdown
 
